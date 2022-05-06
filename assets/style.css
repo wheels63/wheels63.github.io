@@ -4,6 +4,15 @@ body {
   font-family: "Montserrat";
 }
 
+.week {
+  width: 900px;
+  border: 1px solid green;
+  padding: 10px;
+  margin: 10px;
+}
 .day {
-  border: 3px solid black;
+  text-align: center;
+  padding: 5px;
+  border: 1px solid black;
+  margin: 0 0 10px 0;
 }
